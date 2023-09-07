@@ -25,13 +25,7 @@
   --swiper-wrapper-transition-timing-function: initial;
   */
 }
-:host {
-  position: relative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 1;
-}
+
 .swiper {
   margin-left: auto;
   margin-right: auto;
